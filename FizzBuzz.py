@@ -14,4 +14,3 @@ while (counter < 100):
 		print(outputstring)
 
 
-
